@@ -1,0 +1,59 @@
+h3{
+    font-size:18px;
+    font-weight:400;
+}
+p{
+    font-size:14px;
+}
+.navbar a .mac:hover, .navbar a:hover{
+    color:#dc3545!important;
+}
+.mt-3{
+    font-size:22px;
+    color:#dc3545;
+}
+.svg-inline--fa{
+    color:#dc3545;
+}
+.navbar .navbar-brand{
+    color:rgb(255, 255, 255);
+    font-size:20px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color:rgb(255, 255, 255) !important;
+    text-transform:uppercase !important;
+    font-size:14px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#dc3545!important;
+    text-transform:uppercase !important;
+}
+#headerSection{
+    background: url('../images/back.jpg') no-repeat center center fixed;
+    height:auto;
+}
+#headerSection .overlay{
+    background-color: rgba(0,0,0,.15);
+}
+#pop{
+    background-color:#dc3545;
+    height:auto;
+    width: auto;
+    height: auto;
+    margin-top:25px;
+    padding-top: 9px;
+    padding-bottom:8px;
+    border-radius: 15px;
+}
+#altf{
+    background-color:rgb(103, 196, 103);
+    color:white;
+}
+#bar{
+    background-color: rgb(243, 243, 243);
+}
+
+#ozellikler .container{
+    margin-top: 80px;
+    margin-bottom: 150px;
+}
